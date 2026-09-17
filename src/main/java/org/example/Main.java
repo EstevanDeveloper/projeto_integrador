@@ -21,7 +21,7 @@ public class Main {
         int veiculo = 0;
 
         //entrada de dados
-        System.out.println("Qual o nome do colaborador?");
+        System.out.println("Qual o nome do colaborador? ");
         nome = input.nextLine();
 
         System.out.println("Qual a idade do colaborador? ");
